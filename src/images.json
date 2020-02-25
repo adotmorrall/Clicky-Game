@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/abe.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/apu.png",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/barney.png",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/burns.png",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/chief.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/edna.png",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/jeff.png",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/millhouse.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/moe.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/ned.png",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/ralph.png",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/tony.png",
+        "count": 0
+    }
+]
