@@ -1,13 +1,13 @@
 import React from 'react';
 import NavbarMsg from '../NavbarMsg';
-// import './style.css';
+import './style.css';
 
 function Navbar(props) {
     return (
         <nav className='navbar'>
             <ul>
                 <li className='brand'>
-                    <a href='/'>Click Game</a>
+                    <a href='/'>Clicky Game</a>
                 </li>
                 <NavbarMsg score={props.score} topScore={props.topScore} />
                 <li>

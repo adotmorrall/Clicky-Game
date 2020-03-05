@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-// import './style.css';
+import './style.css';
 
-class NavMessage extends Component {
+class NavbarMsg extends Component {
     state = {
         message: "",
         animating: false
@@ -30,7 +30,7 @@ class NavMessage extends Component {
             case 'incorrect':
                 return "Wrong, try again!";
             default:
-                return 'Click on one of the Simpsons images to begin!';
+                return 'Click a Simpsons image to begin!';
         }
     };
 
@@ -46,4 +46,4 @@ class NavMessage extends Component {
     }
 }
 
-export default NavMessage;
+export default NavbarMsg;
