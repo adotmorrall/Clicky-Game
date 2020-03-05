@@ -1,6 +1,6 @@
 import React from 'react';
 import NavbarMsg from '../NavbarMsg';
-import './style.css';
+// import './style.css';
 
 function Navbar(props) {
     return (
