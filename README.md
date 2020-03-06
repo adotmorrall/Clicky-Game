@@ -1,1 +1,3 @@
 # Clicky Game
+
+Memory game
